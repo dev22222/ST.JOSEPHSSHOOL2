@@ -1,0 +1,108 @@
+nav {
+    z-index: 99999;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+body {
+    text-align: center;
+    width: 900px;
+}
+
+#school {
+    position: absolute;
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 150px;
+}
+
+#contact {
+    position: absolute;
+    width: 100%;
+    margin-left: 0px;
+    color: white;
+    background-color: #3d3d3d;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 2000px;
+}
+
+#school img {
+    width: 80%;
+    border: solid 5px;
+    border-color: black;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+#contact a {
+    color: white;
+    text-decoration: none;
+}
+
+#contact img {
+    width: 250px;
+}
+
+#contact iframe {
+    margin-left: 50px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#achievements {
+    position: absolute;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 1500px; 
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+#achievements p{
+    
+    text-align: left;
+}
+.achieve1{
+    margin-top: 10px;
+}
+.clife{
+    border: solid black 2px;
+    background-color: white;
+    padding-top: 20px;
+}
+.clife h5{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:black;
+}
+#campus{
+    position: absolute;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 850px; 
+}
